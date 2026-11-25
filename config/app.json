@@ -1,6 +1,9 @@
 {
-  "appName": "Web App",
-  "packageName": "com.example.webapp",
-  "orientation": "auto",
-  "permissions": ["internet", "network_state"]
+  "appName": "Color video",
+  "packageName": "com.web2apk.colorvideo4an9",
+  "orientation": "portrait",
+  "permissions": [
+    "notification",
+    "wifi_state"
+  ]
 }
